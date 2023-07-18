@@ -1,6 +1,6 @@
 # ZF Labo - Prescriptions
-Your doctors can now give prescriptions with details for drugs and instructions for patients.
-
+#### Your doctors can now give prescriptions with details for drugs and instructions for patients.
+![Prescription Creation Menu](creation_menu_demo.png) ![Prescription Details Menu](data_menu_demo.png)
 
 ## Dependencies
 - [zf-lib](https://github.com/zf-labo/zf-lib)
